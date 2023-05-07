@@ -1,4 +1,4 @@
-# :bomb: Minesweeper :bomb
+# :bomb: Minesweeper :bomb:
 C++을 이용해 지뢰 찾기 게임 구현하기
 ## 함수 기능 설명
 ### (1) minesweeper
